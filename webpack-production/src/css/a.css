@@ -1,0 +1,7 @@
+body,
+html {
+  /* background: skyblue; */
+  display: flex;
+  transform: translate(10px);
+  background: url('../imgs/sun.jpg');
+}
